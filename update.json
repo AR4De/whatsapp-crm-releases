@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "buildNumber": 1,
+  "version": "1.2.0",
+  "buildNumber": 3,
   "platform": "android",
-  "apkUrl": "https://expo.dev/accounts/abdubfs/projects/whatsapp-crm/builds/0a1d3a3c-ddc6-4da9-b43b-c9cf72b86168",
+  "apkUrl": "https://expo.dev/artifacts/eas/weN9C3V8RLs1UC7ptCBEez.apk",
   "releaseNotes": "Initial release — native push notifications, secure workspace routing, and hardware back-button support.",
   "requiredMinVersion": "1.0.0",
   "publishedAt": "2026-03-30"
