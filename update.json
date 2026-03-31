@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "buildNumber": 5,
+  "version": "1.6.0",
+  "buildNumber": 6,
   "platform": "android",
   "apkUrl": "https://expo.dev/artifacts/eas/2wkqNZRaDL6YJRf842T95q.apk",
   "releaseNotes": "Initial release — native push notifications, secure gmail auth connection.",
