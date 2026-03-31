@@ -2,7 +2,7 @@
   "version": "1.4.0",
   "buildNumber": 4,
   "platform": "android",
-  "apkUrl": "https://expo.dev/artifacts/eas/8419HYhPAdMXUXw7R9fgrN.apk",
+  "apkUrl": "https://expo.dev/artifacts/eas/6ziaU5LfiFrV4fhvUpWEJG.apk",
   "releaseNotes": "Initial release — native push notifications, secure gmail auth connection.",
   "requiredMinVersion": "1.0.0",
   "publishedAt": "2026-03-31"
