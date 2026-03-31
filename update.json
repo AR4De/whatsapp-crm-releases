@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "buildNumber": 4,
+  "version": "1.5.0",
+  "buildNumber": 5,
   "platform": "android",
-  "apkUrl": "https://expo.dev/artifacts/eas/6ziaU5LfiFrV4fhvUpWEJG.apk",
+  "apkUrl": "https://expo.dev/artifacts/eas/2wkqNZRaDL6YJRf842T95q.apk",
   "releaseNotes": "Initial release — native push notifications, secure gmail auth connection.",
   "requiredMinVersion": "1.0.0",
   "publishedAt": "2026-03-31"
