@@ -1,9 +1,9 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "buildNumber": 4,
   "platform": "android",
-  "apkUrl": "https://expo.dev/artifacts/eas/oHUxfdDggpjDCRGNN7MmiV.apk",
-  "releaseNotes": "Initial release — native push notifications, secure workspace routing, and hardware back-button support.",
+  "apkUrl": "https://expo.dev/artifacts/eas/8419HYhPAdMXUXw7R9fgrN.apk",
+  "releaseNotes": "Initial release — native push notifications, secure gmail auth connection.",
   "requiredMinVersion": "1.0.0",
-  "publishedAt": "2026-03-30"
+  "publishedAt": "2026-03-31"
 }
